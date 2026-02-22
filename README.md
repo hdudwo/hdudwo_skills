@@ -19,5 +19,6 @@ Claude Code Frontend Design 마켓플레이스입니다!!
 **4. Claude에게 요청합니다**
 ```
 "Frontend Design 스킬을 사용해서 랜딩 페이지 만들어줘"
+
 ```
 
