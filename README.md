@@ -6,6 +6,7 @@ Claude Code Frontend Design 마켓플레이스입니다!!
 
 **1. Claude Code를 실행합니다 (CLI)**
 
+
 **2. 마켓플레이스를 등록합니다**
 ```
 /plugin marketplace add hdudwo/hdudwo_skills
